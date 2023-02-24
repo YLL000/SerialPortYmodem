@@ -1,4 +1,4 @@
-# SerialPortYmodem
+# QT SerialPortYmodem
 
 串口通过YMODEM协议进行文件传输。程序中涉及到YMODEM协议知识，详细介绍见维基百科[YMODEM](https://en.wikipedia.org/wiki/YMODEM)。
 
